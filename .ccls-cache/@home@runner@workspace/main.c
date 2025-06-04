@@ -6,6 +6,7 @@ void main(void) {
 }
 */
 
+/*
 #include <stdio.h>
 
 void main(void) {
@@ -13,3 +14,15 @@ void main(void) {
   printf("25-06-1994 \n");
   printf("2025 \n");
 }
+*/
+
+#include <stdio.h>
+
+void main (void) {
+int x =3;
+
+printf(" Please Enter the Value ");
+scanf("%d", &x);
+printf(" The Value You Entered is %d ",x);
+}
+
